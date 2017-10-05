@@ -1,5 +1,5 @@
 <?php
-include('../db/bancodedados.php');
+include('../db/banco.php');
 include('../auth/controle.php');
 
 

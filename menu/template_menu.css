@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+		*{
+			padding: 0;
+			margin: 0;
+			box-sizing: border-box;
+		 }
+		
+		body
+		{
+			background-image: url('fundo.png' );
+			background-repeat: no-repeat;
+			background-size: cover;
+			
+			
+		}
+		
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #455a64;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #00bcd4;
+	font-family:arial;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #00bcd4;
+	color:#FFFFFF;
+}
+#nome
+	{
+		bottom:-10px;
+		color:#455a64;
+	}
+#text{
+	font-famyly:Myriad Pro;
+	font-size:36px;
+	position:absolute;
+	padding:350px;
+	left:-300px;
+	
+	}
+	
+
+p.apre
+{
+	font-size:24px;
+	padding:5px;
+	color:#455a64;
+}
+.disc
+{
+	font-size:20px;
+	padding:5px;
+	text-justify:auto;
+	color:#00bcd4;
+	}
+	
